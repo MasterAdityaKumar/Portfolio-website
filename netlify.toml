@@ -1,5 +1,5 @@
 [build]
-  publish = "public"  # Change this to your site output directory if different
+  publish = "."
   command = "echo 'No build command necessary for plain HTML site'"
 
 [[redirects]]
